@@ -1,0 +1,2 @@
+#!/bin/bash
+finc ./* -type d -print | wc -l
